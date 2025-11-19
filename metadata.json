@@ -1,0 +1,7 @@
+{
+  "name": "SysCom Edu",
+  "description": "Platform pembelajaran interaktif Sistem Komputer (Hardware, Software, Brainware) untuk siswa SMA dengan AI Tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
