@@ -24,7 +24,9 @@ export const HARDWARE_CONTENT: TopicContent = {
               name: 'Keyboard', 
               desc: 'Papan ketik untuk memasukkan huruf, angka, dan perintah.', 
               icon: '⌨️',
-              image: 'https://images.unsplash.com/photo-1587829741301-dc798b91a45e?auto=format&fit=crop&w=500&q=60'
+              // image: 'https://images.unsplash.com/photo-1587829741301-dc798b91a45e?auto=format&fit=crop&w=500&q=60'
+              image: 'https://c.pxhere.com/photos/e3/09/keyboard_white_computer_keyboard_desktop_office-626035.jpg!d'
+
             },
             { 
               name: 'Mouse', 
